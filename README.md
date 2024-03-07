@@ -1,4 +1,4 @@
-# Chainlink Fullstack Demo App
+# XFT Demo
 
 [![codecov](https://codecov.io/gh/hackbg/chainlink-fullstack/branch/main/graph/badge.svg?token=60ZDWLHB53)](https://codecov.io/gh/hackbg/chainlink-fullstack)
 
